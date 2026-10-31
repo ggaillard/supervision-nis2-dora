@@ -43,8 +43,9 @@ régimes** : Sevranne notifie l'ANSSI (NIS 2) ; chacun de ses clients financiers
 - **Sanctions** (art. 34) : pour une entité importante, une amende d'au moins **7 M€ ou 1,4 %** du chiffre
   d'affaires mondial (le plus élevé) peut être prévue ; 10 M€ ou 2 % pour une entité essentielle.
 
-> **En France, aujourd'hui** : la loi de transposition a été adoptée par le Sénat en mars 2025, mais n'est pas
-> promulguée au 31 octobre 2026. L'exercice applique les règles de la directive et de son règlement d'exécution,
+> **En France, aujourd'hui** : la loi de transposition a été adoptée par le Sénat en mars 2025 ; à l'Assemblée
+> nationale, son examen en séance, prévu les 7 et 9 octobre 2026, a été retiré de l'ordre du jour sans nouvelle date.
+> Elle n'est donc pas promulguée au 31 octobre 2026. L'exercice applique les règles de la directive et de son règlement d'exécution,
 > telles qu'elles s'imposeront. Suivre la publication de la loi et des décrets est un bon sujet de **veille**.
 
 ## 3. Quand un incident est-il « important », et que faut-il notifier ? (NIS 2)
